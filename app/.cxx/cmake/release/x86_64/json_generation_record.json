@@ -1,0 +1,194 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: x86_64",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json due to:",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "  - D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "keeping json folder \u0027D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86_64\u0027 but regenerating project",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11\n-DCMAKE_FIND_ROOT_PATH\u003dD:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\prefab\\x86_64\\prefab\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003dx86_64\n-DANDROID_NDK\u003dD:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\n-DANDROID_PLATFORM\u003dandroid-16\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86_64\n-DCMAKE_ANDROID_NDK\u003dD:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\GitHubLib\\boylab\\SerialportApi\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\n-DCMAKE_MAKE_PROGRAM\u003dD:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-BD:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86_64\n-GNinja\njvmArgs : \n\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/GitHubLib/boylab/SerialportApi/app/src/main/cpp\",\n  \"buildDirectory\": \"D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86_64\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dD:\\\\GitHubLib\\\\boylab\\\\SerialportApi\\\\app\\\\.cxx\\\\cmake\\\\release\\\\prefab\\\\x86_64\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dD:\\\\Applications\\\\AndroidStudio\\\\sdk\\\\ndk\\\\21.0.6113669\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003dx86_64\",\n    \"-DANDROID_NDK\\u003dD:\\\\Applications\\\\AndroidStudio\\\\sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DANDROID_PLATFORM\\u003dandroid-16\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003dx86_64\",\n    \"-DCMAKE_ANDROID_NDK\\u003dD:\\\\Applications\\\\AndroidStudio\\\\sdk\\\\ndk\\\\21.0.6113669\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\GitHubLib\\\\boylab\\\\SerialportApi\\\\app\\\\build\\\\intermediates\\\\cmake\\\\release\\\\obj\\\\x86_64\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dD:\\\\Applications\\\\AndroidStudio\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\"\n  ]\n}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"D:/Applications/AndroidStudio/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake\",\"D:/Applications/AndroidStudio/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/release/x86_64/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"D:/Applications/AndroidStudio/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/GitHubLib/boylab/SerialportApi/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86_64\",\"name\":\"Project\",\"sourceDirectory\":\"D:/GitHubLib/boylab/SerialportApi/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"D:/GitHubLib/boylab/SerialportApi/app/build/intermediates/cmake/release/obj/x86_64/libserial_port.so\"],\"buildDirectory\":\"D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86_64\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -std\u003dc++11 -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"serial_port_EXPORTS\"],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"native-lib.cpp\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC  \",\"defines\":[\"serial_port_EXPORTS\"],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"SerialPort.c\"]}],\"fullName\":\"libserial_port.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"-llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"serial_port\",\"sourceDirectory\":\"D:/GitHubLib/boylab/SerialportApi/app/src/main/cpp\",\"sysroot\":\"D:/Applications/AndroidStudio/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86_64\\build_output.txt",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  }
+]

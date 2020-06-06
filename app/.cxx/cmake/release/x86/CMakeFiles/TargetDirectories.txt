@@ -1,0 +1,3 @@
+D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86/CMakeFiles/serial_port.dir
+D:/GitHubLib/boylab/SerialportApi/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
