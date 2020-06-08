@@ -1,4 +1,0 @@
-# ninja log v5
-1	217	613167745	CMakeFiles/serial_port.dir/SerialPort.c.o	364868253fac6890
-31	613	613167745	CMakeFiles/serial_port.dir/native-lib.cpp.o	8156075338e0e080
-615	1023	613167746	D:/GitHubLib/boylab/SerialportApi/app/build/intermediates/cmake/debug/obj/x86/libserial_port.so	58a0a693535956fc

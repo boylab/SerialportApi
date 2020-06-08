@@ -59,7 +59,7 @@ public class LoopbackActivity extends SerialPortActivity {
 					// Wait for 100ms before sending next byte, or as soon as
 					// the sent byte has been read back.
 					try {
-						mByteReceivedBackSemaphore.wait(100);
+						mByteReceivedBackSemaphore.wait(10);
 						if (mByteReceivedBack == true) {
 							// Byte has been received
 							mIncoming++;

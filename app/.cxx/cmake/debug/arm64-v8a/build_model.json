@@ -16,8 +16,8 @@
         "ndk"
       ],
       "buildRoot": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\debug\\arm64-v8a",
-      "cmakeToolchain": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
-      "cmakeExecutable": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "cmakeToolchain": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
       "variables": [
         {
           "name": "CMAKE_CXX_FLAGS",
@@ -33,7 +33,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake"
+          "value": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -41,7 +41,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669"
+          "value": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -53,7 +53,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669"
+          "value": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -65,7 +65,7 @@
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+          "value": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -98,11 +98,11 @@
     "module": {
       "buildSystem": "CMAKE",
       "cmake": {
-        "cmakeExe": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "cmakeExe": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        "ninjaExe": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
       },
-      "cmakeToolchainFile": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cmakeToolchainFile": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake",
       "cxxFolder": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx",
       "gradleModulePathName": ":app",
       "intermediatesFolder": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\build\\intermediates",
@@ -115,7 +115,7 @@
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669",
+      "ndkFolder": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -170,24 +170,25 @@
         "X86_64"
       ],
       "ndkDefaultStl": "LIBCXX_STATIC",
-      "ndkVersion": "21.0.6113669",
+      "ndkVersion": "21.2.6472646",
       "project": {
         "compilerSettingsCacheFolder": "D:\\GitHubLib\\boylab\\SerialportApi\\.cxx",
         "cxxFolder": "D:\\GitHubLib\\boylab\\SerialportApi\\.cxx",
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
         "rootBuildGradleFolder": "D:\\GitHubLib\\boylab\\SerialportApi",
-        "sdkFolder": "D:\\Applications\\AndroidStudio\\sdk",
+        "sdkFolder": "D:\\AndroidStudio\\sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
-          "ARM64_V8A": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
-          "X86": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-          "X86_64": "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+          "ARMEABI_V7A": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
@@ -197,10 +198,7 @@
     "objFolder": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "ARM64_V8A"
     ],
     "prefabDirectory": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\debug\\prefab",
     "prefabPackageDirectoryList": []

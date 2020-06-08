@@ -1,9 +1,4 @@
 # ninja log v5
-0	684	613165403	CMakeFiles/native-lib.dir/native-lib.cpp.o	385c682b0c9fcf90
-687	937	613165403	D:/GitHubLib/boylab/SerialportApi/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	7b631d680b0ae7e7
-0	738	613165779	CMakeFiles/serial_port.dir/native-lib.cpp.o	cab9caa68345a2f4
-5	398	613165946	CMakeFiles/serial_port.dir/SerialPort.c.o	74e2388f2f55501
-2	401	613166382	CMakeFiles/serial_port.dir/SerialPort.cpp.o	aaa2cd12000e883c
-2	732	613166995	CMakeFiles/serial_port.dir/native-lib.cpp.o	cab9caa68345a2f4
-1	257	613167743	CMakeFiles/serial_port.dir/SerialPort.c.o	74e2388f2f55501
-257	603	613167743	D:/GitHubLib/boylab/SerialportApi/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	a1920812e309f787
+38	7188	613297004	CMakeFiles/serial_port.dir/SerialPort.c.o	8168fc092c37a2ed
+0	12443	613297010	CMakeFiles/serial_port.dir/native-lib.cpp.o	acb59fe0fcd4f007
+12443	13152	613297010	D:/GitHubLib/boylab/SerialportApi/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libserial_port.so	516ca5e165ec0741

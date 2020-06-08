@@ -1,17 +1,17 @@
 {
   "buildFiles": [
-    "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
-    "D:\\Applications\\AndroidStudio\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
-    "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt"
+    "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\build\\cmake\\platforms.cmake",
+    "D:\\GitHubLib\\boylab\\SerialportApi\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\AndroidStudio\\sdk\\ndk\\21.2.6472646\\build\\cmake\\android.toolchain.cmake"
   ],
   "cleanCommands": [
-    "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" clean"
+    "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" clean"
   ],
-  "buildTargetsCommand": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "buildTargetsCommand": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
   "libraries": {
     "serial_port-Release-x86": {
       "artifactName": "serial_port",
-      "buildCommand": "D:\\Applications\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" serial_port",
+      "buildCommand": "D:\\AndroidStudio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\GitHubLib\\boylab\\SerialportApi\\app\\.cxx\\cmake\\release\\x86\" serial_port",
       "abi": "x86",
       "output": "D:\\GitHubLib\\boylab\\SerialportApi\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libserial_port.so",
       "runtimeFiles": []
